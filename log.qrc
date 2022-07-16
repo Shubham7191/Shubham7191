@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="log">
+    <file>loginn.png</file>
+    <file>elvator.jpg</file>
+  </qresource>
+</RCC>
